@@ -8,4 +8,4 @@ added text through web brouwser
 
 added text in new branch
 
-разрешаем конфликт
+разрешаем конфликт текст в браузере
